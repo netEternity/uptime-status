@@ -2,12 +2,12 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '云生站点监测',
+  SiteName: 'CB-X2-Jun网站监测',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur1078385-b9802a0868414b8a975d5038',
+    'm798505280-ae627d1c53c5f42fee173fd4',
   ],
 
     // 日志天数
@@ -21,16 +21,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '主页',
-      url: 'https://tjys.tk'
-    },
-    {
       text: '博客',
-      url: 'https://blog.qikaile.tk'
+      url: 'https://cb-x2-jun.github.io'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/qikaile/uptime-status'
+      url: 'https://github.com/CB-X2-Jun/uptime-status'
+    },
+    {
+      text: 'ETOJ',
+      url: 'https://etoj.xyz'
     },
   ],
 };
