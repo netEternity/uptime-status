@@ -23,8 +23,9 @@ function App() {
           ))}
         </div>
         <div id='footer'>
-          <p>基于&nbsp;<Link to='https://uptimerobot.com/' text='UptimeRobot' />&nbsp;接口&nbsp;|&nbsp;检测频率&nbsp;5&nbsp;分钟</p>
-          <p>2020&nbsp;-&nbsp;2024&nbsp;&copy;&nbsp;Reach&nbsp;-&nbsp;<Link to='/' text='墨明' /></p>
+          <p>基于&nbsp;<Link to='https://uptimerobot.com/' text='UptimeRobot' />&nbsp;接口&nbsp;|&nbsp;检测频率：5&nbsp;分钟</p>
+          <p><a href="https://icp.gov.moe/?keyword=20255955" target="_blank">萌ICP备20255955号</a></p>
+          <p><a href="https://app.netlify.com/sites/cb-stats/deploys" target="_blank"><img src="https://api.netlify.com/api/v1/badges/2c80c2ef-d5d8-46b3-bb48-d4548eb71f67/deploy-status" alt="由 Netlify 部署" width="118" height="20"></a>
         </div>
       </div>
     </>
