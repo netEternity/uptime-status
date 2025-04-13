@@ -7,11 +7,11 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'm798505280-ae627d1c53c5f42fee173fd4',
-    'm798522668-507502ed6be1465d4f6090ed',
-    'm800036903-dfec685d4a17a289c8faa59a',
-    'm800036905-b6a103bfcd73fb343802e4b6',
-    'm798505242-325e0fd1ee9bdc49622d6cc9',
+    'm800168589-c331dc4b9d118ba291c8f025',
+    'm800169332-63dd70481e0628c8985ae0b6',
+    'm800169729-64485712606e71c49190a2dc',
+    'm800169922-917a48597c0a5b287c81d299',
+    'm800170144-0e91dbcea2626a14a084229c',
   ],
 
     // 日志天数
@@ -25,12 +25,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '博客',
-      url: 'https://cb-x2-jun.github.io'
+      text: '论坛',
+      url: 'https://etoj.freeflarum.com/'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/CB-X2-Jun/uptime-status'
+      url: 'https://github.com/Eternity-Sky/uptime-status'
     },
     {
       text: 'ETOJ',
