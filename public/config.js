@@ -2,7 +2,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'CB-X2-Jun 网站监测',
+  SiteName: 'Eternity-Sky 网站监测',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
