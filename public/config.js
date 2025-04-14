@@ -34,7 +34,7 @@ window.Config = {
       url: 'https://github.com/Eternity-Sky/uptime-status'
     },
     {
-      text: 'ETOJ',
+      text: 'ETOJ(监测失效不影响使用)',
       url: 'https://etoj.xyz'
     },
     {
